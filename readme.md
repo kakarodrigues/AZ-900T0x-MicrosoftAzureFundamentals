@@ -1,6 +1,6 @@
 # AZ-900T00 and AZ-900T01: Microsoft Azure Fundamentals
 
-- **[Link to Walkthroughs (HTML format)](https://microsoftlearning.github.io/AZ-900T0x-MicrosoftAzureFundamentals/)**
+- **[Link to Walkthroughs (HTML format)](https://learn.microsoft.com/en-us/users/23110622/collections/0kjyh8rn5gdrjj)**
 - **Are you a MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
 
 ## What are we doing?
