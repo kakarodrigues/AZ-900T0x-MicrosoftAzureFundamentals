@@ -1,7 +1,6 @@
 # # AZ-900 Fundamentos do Microsoft Azure
 
 - **[Link MSLearn AZ-900](https://learn.microsoft.com/pt-br/certifications/exams/az-900/)**
-- **Are you a MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
 
 - **Você é um MCT?** - Dê uma olhada em nosso [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
 
